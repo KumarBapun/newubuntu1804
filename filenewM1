@@ -1,3 +1,9 @@
----
-task:learn devOps Continuously
----
+2nd line code commit check
+provider "azurerm"{
+features{}
+
+}
+resource "azurerm_resource_group""example"{
+name = "aznewreourcegroup"
+location = "CentralIndia"
+}
